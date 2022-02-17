@@ -1,0 +1,39 @@
+<html>
+        <body><!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+                color: blue;
+                font-family: Arial Narrow;
+            }
+            </style>
+            </head>
+        <body style= "background-image: linear-gradient(cyan, white)";>
+            <h1> Personal Information</h1>
+              <form> 
+            <label> What Is Your Name? </label>
+            <input type="text"> 
+            <br><br>
+            <label> What Is Your Gender?</label>
+                <br><br>
+            <label> Male </label>
+            <input type="radio">
+            <br><br>
+                          <label> Female </label>
+            <input type="radio">
+            <br><br>
+            <label> What Is Your Email Address? </label> 
+
+            <input type="email"> 
+<br><br>
+            <label> What Is Your Phone Number? </label>
+
+            <input type="number">
+<br><br>
+            <h2>Are You A Bot?</h2>
+            <p> Please Input A Number Between 1 And 5</p>
+            <input id="number">
+            <button type="button" onclick= "validate()"> Submit </button><html>
+      
+         

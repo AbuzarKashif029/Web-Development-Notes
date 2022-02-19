@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+                text-align: center;
+            }
+            h1::first-line{
+                font-family: Trebuchet MS;
+                font-size: 1cm;
+                color: teal;
+                text-shadow: 5px 6px 7px black;
+            }
+            
+h1{
+    color: teal;
+}
+</style>
+</head>
+<body>
+<h1> Mamo Spiderman</h1>
+<h2> Spiderman Ka Actor Hai Tom Holland</h2>
+</body>
+</html>

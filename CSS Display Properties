@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            span.a{
+                display: inline; /* the default for span*/
+                width: 100px;
+                height: 100px;
+                height: 100px;
+                padding: 5px;
+                border: 1px  solid blue;
+                background-color: red;
+            }
+              span.b{
+                display: inline-block; /* the default for span*/
+                width: 100px;
+                height: 100px;
+                height: 100px;
+                padding: 5px;
+                border: 1px  solid blue;
+                background-color: red;
+            }
+              span.c{
+                display: block; /* the default for span*/
+                width: 100px;
+                height: 100px;
+                height: 100px;
+                padding: 5px;
+                border: 1px  solid blue;
+                background-color: red;
+            }
+            </style>
+            </body>
+            <h2> display: inline</h2>
+            <div> eoeooeoeoe <span class= "a"> ejejje </span> <span dass= "a"> eiundndin </span>  
+          <h4> Inline-block
+             <div> eoeooeoeoe <span class= "b"> ejejje </span> <span dass= "a"> eiundndin </span>
+             <h3> block</h3>
+                   <div> eoeooeoeoe <span class= "c"> ejejje </span> <span dass= "a"> eiundndin </span>

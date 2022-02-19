@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: blue;
+}
+
+a:active{
+    color: orange;
+}
+
+
+
+
+</style>
+</head>
+<body>
+<b><u>    <a href= "https://www.bbc.co.uk/newsround" target= "_blank"> This is totally not a hacker link. </a href></u></b>
+
+<h2> Hacking Is not good.</h2>
